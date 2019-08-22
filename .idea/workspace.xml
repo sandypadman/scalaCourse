@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b0ed170-80d0-44e9-9e12-3ffa6276ec8f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1P5Xcvg78x6BCrKy45MxJ3dCUT9" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="scalaCourse" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="scalacourse [file:/home/sandhya/workspace/scalaCourse/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="scalaCourse-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3130330028364" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="2398880621" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/newdir/vat-opt-out-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/newdir/vat-summary-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../add-taxes-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../business-tax-account" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../change-vat-acceptance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../change-vat-details-acceptance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../change-vat-details-performance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../comms-api-proxy" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../contact-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../digital-comms-dynamic-stub" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../income-tax-view-change-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../manage-vat-subscription-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../mtd-vat-comms" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vat-agent-client-lookup-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vat-correspondence-details-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vat-obligations-dynamic-stub" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vat-opt-out-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vat-returns" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vat-returns-dynamic-stub" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vat-subscription" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vat-summary-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vat-vc-api-stub" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../view-vat-acceptance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../view-vat-returns-frontend" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b0ed170-80d0-44e9-9e12-3ffa6276ec8f" name="Default Changelist" comment="" />
+      <created>1565165014012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565165014012</updated>
+    </task>
+    <servers />
+  </component>
+</project>
